@@ -1,1 +1,1 @@
-# initial test course Gemini API`
+# Python Gemini API course test
